@@ -1,0 +1,4 @@
+HostelCraft
+===========
+
+Main HostelCraft Plugin
